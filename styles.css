@@ -1,5 +1,5 @@
 body {
-    background: dimgrey;
+    background: repeating-linear-gradient(90deg, black, #401400 1350px);
     color: white;
     margin: 20px;
     font-family: "Chakra Petch", sans-serif;
