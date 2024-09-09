@@ -7,15 +7,15 @@ body {
 }
 
 header {
-    border-bottom: solid 2px lightsteelblue;
+    border-bottom: solid 2px ghostwhite;
     padding: 20px;
     font-size: 32px;
-    color: lightsteelblue
+    color: initial;
 }
 
 
 .chamada {
-    background: grey;
+    background: black;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -58,5 +58,5 @@ p {
 }
 
 .categoria h2 {
-    color: lightsteelblue;
+    color: initial;
 }
